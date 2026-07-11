@@ -83,6 +83,7 @@ mapcomplete_bookcases https://docs.mapcomplete.org/TagInfo/mapcomplete_bookcases
 mapcomplete_cafes_and_pubs https://docs.mapcomplete.org/TagInfo/mapcomplete_cafes_and_pubs.json
 mapcomplete_campersite https://docs.mapcomplete.org/TagInfo/mapcomplete_campersite.json
 mapcomplete_charging_stations https://docs.mapcomplete.org/TagInfo/mapcomplete_charging_stations.json
+mapcomplete_cinemas https://docs.mapcomplete.org/TagInfo/mapcomplete_cinemas.json
 mapcomplete_circular_economy https://docs.mapcomplete.org/TagInfo/mapcomplete_circular_economy.json
 mapcomplete_climbing https://docs.mapcomplete.org/TagInfo/mapcomplete_climbing.json
 mapcomplete_clock https://docs.mapcomplete.org/TagInfo/mapcomplete_clock.json
@@ -95,6 +96,7 @@ mapcomplete_education https://docs.mapcomplete.org/TagInfo/mapcomplete_education
 mapcomplete_elongated_coin https://docs.mapcomplete.org/TagInfo/mapcomplete_elongated_coin.json
 mapcomplete_etymology https://docs.mapcomplete.org/TagInfo/mapcomplete_etymology.json
 mapcomplete_facadegardens https://docs.mapcomplete.org/TagInfo/mapcomplete_facadegardens.json
+mapcomplete_farming_equipment_cooperatives https://docs.mapcomplete.org/TagInfo/mapcomplete_farming_equipment_cooperatives.json
 mapcomplete_fireplace https://docs.mapcomplete.org/TagInfo/mapcomplete_fireplace.json
 mapcomplete_food https://docs.mapcomplete.org/TagInfo/mapcomplete_food.json
 mapcomplete_fritures https://docs.mapcomplete.org/TagInfo/mapcomplete_fritures.json
@@ -107,6 +109,7 @@ mapcomplete_hailhydrant https://docs.mapcomplete.org/TagInfo/mapcomplete_hailhyd
 mapcomplete_healthcare https://docs.mapcomplete.org/TagInfo/mapcomplete_healthcare.json
 mapcomplete_historic_aircraft https://docs.mapcomplete.org/TagInfo/mapcomplete_historic_aircraft.json
 mapcomplete_historic_rolling_stock https://docs.mapcomplete.org/TagInfo/mapcomplete_historic_rolling_stock.json
+mapcomplete_hitchhiking https://docs.mapcomplete.org/TagInfo/mapcomplete_hitchhiking.json
 mapcomplete_hotels https://docs.mapcomplete.org/TagInfo/mapcomplete_hotels.json
 mapcomplete_icecream https://docs.mapcomplete.org/TagInfo/mapcomplete_icecream.json
 mapcomplete_indoors https://docs.mapcomplete.org/TagInfo/mapcomplete_indoors.json
@@ -114,10 +117,12 @@ mapcomplete_infrastructure https://docs.mapcomplete.org/TagInfo/mapcomplete_infr
 mapcomplete_insects https://docs.mapcomplete.org/TagInfo/mapcomplete_insects.json
 mapcomplete_kerbs_and_crossings https://docs.mapcomplete.org/TagInfo/mapcomplete_kerbs_and_crossings.json
 mapcomplete_lactosefree https://docs.mapcomplete.org/TagInfo/mapcomplete_lactosefree.json
+mapcomplete_libraries https://docs.mapcomplete.org/TagInfo/mapcomplete_libraries.json
 mapcomplete_lighthouses https://docs.mapcomplete.org/TagInfo/mapcomplete_lighthouses.json
 mapcomplete_maps https://docs.mapcomplete.org/TagInfo/mapcomplete_maps.json
 mapcomplete_maxspeed https://docs.mapcomplete.org/TagInfo/mapcomplete_maxspeed.json
 mapcomplete_memorials https://docs.mapcomplete.org/TagInfo/mapcomplete_memorials.json
+mapcomplete_museums https://docs.mapcomplete.org/TagInfo/mapcomplete_museums.json
 mapcomplete_nature https://docs.mapcomplete.org/TagInfo/mapcomplete_nature.json
 mapcomplete_notes https://docs.mapcomplete.org/TagInfo/mapcomplete_notes.json
 mapcomplete_observation_towers https://docs.mapcomplete.org/TagInfo/mapcomplete_observation_towers.json
@@ -130,6 +135,7 @@ mapcomplete_police_call_boxes https://docs.mapcomplete.org/TagInfo/mapcomplete_p
 mapcomplete_postboxes https://docs.mapcomplete.org/TagInfo/mapcomplete_postboxes.json
 mapcomplete_rainbow_crossings https://docs.mapcomplete.org/TagInfo/mapcomplete_rainbow_crossings.json
 mapcomplete_sauna https://docs.mapcomplete.org/TagInfo/mapcomplete_sauna.json
+mapcomplete_science_research https://docs.mapcomplete.org/TagInfo/mapcomplete_science_research.json
 mapcomplete_scouting https://docs.mapcomplete.org/TagInfo/mapcomplete_scouting.json
 mapcomplete_shops https://docs.mapcomplete.org/TagInfo/mapcomplete_shops.json
 mapcomplete_ski https://docs.mapcomplete.org/TagInfo/mapcomplete_ski.json
